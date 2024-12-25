@@ -1,0 +1,8 @@
+csjxie@nju.edu.cn
+4-5次作业 + 期末考试
+
+南大电子系试卷集： https://git.nju.edu.cn/njuEE/awesomeee
+
+能找到参考教材，以及大量试卷。
+
+另外还有郑君里信号与系统教材和习题，本学期作业绝大多数出自这本书。
